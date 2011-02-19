@@ -1,0 +1,23 @@
+﻿//
+// Toto je popisný soubor pro popis obsahu adresáře (příklad)
+//
+
+[InfoShortDescription.en]
+  Ionisation Radiation Logger
+
+[InfoShortDescription.cs]
+  Zapisovač intenzity kosmického záření
+  
+[InfoLongDescription.en]
+  Logger is an application developed during the "Physics' Day" 
+  organised for secondary school students at the Faculty of 
+  Nuclear Sciences and Physical Engineering in Prague.
+  It can log intensity of ionising radiation with GPS coordinates.
+
+[InfoLongDescription.cs]
+  Zapisovač intensity ionizačního záření umožňuje systematický sběr 
+  dat vázaný na zeměpisné souřadnice. Například během letu v letadle.
+  Jedná se o experiment z Fyzikálního týdne pro středoškoláky na 
+  FJFI ČVUT.
+
+[End]
