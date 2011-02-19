@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="34.000cm" height="13.550cm" viewBox="12.600 6.800 46.600 20.350"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="17.450" y="10.850" width="7.450" height="4.500" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="17.450" y="10.850" width="7.450" height="4.500" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="12.650" y="11.800" width="2.700" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="12.650" y="11.800" width="2.700" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="29.500" y="11.000" width="7.150" height="4.350" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="29.500" y="11.000" width="7.150" height="4.350" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="31.950" y="18.150" width="2.150" height="2.150" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="31.950" y="18.150" width="2.150" height="2.150" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="40.650" y="10.250" width="5.900" height="5.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="40.650" y="10.250" width="5.900" height="5.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<line x1="15.350" y1="13.150" x2="17.226" y2="13.105" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="16.844,13.364 17.338,13.103 16.832,12.865 "/>
+<line x1="33.075" y1="13.175" x2="33.075" y2="13.175" stroke="#000000" stroke-width="0.100" />
+<line x1="24.950" y1="12.000" x2="29.177" y2="11.953" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="28.791,12.207 29.288,11.951 28.786,11.707 "/>
+<line x1="25.159" y1="13.998" x2="29.386" y2="13.951" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="25.545,13.744 25.047,13.999 25.550,14.244 "/>
+<line x1="33.071" y1="15.574" x2="33.025" y2="18.150" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="33.314,15.966 33.073,15.462 32.814,15.957 "/>
+<line x1="36.650" y1="13.175" x2="40.426" y2="13.199" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="40.037,13.446 40.538,13.199 40.040,12.946 "/>
+<text x="33.075" y="13.250"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+RS232SINGLE01A</text>
+<text x="33.025" y="19.291"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+GPS</text>
+<text x="43.600" y="13.200"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Palmtop</text>
+<text x="37.500" y="12.750"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+RS232</text>
+<text x="33.500" y="17.150"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+RS232</text>
+<text x="26.700" y="11.500"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+TXD</text>
+<text x="26.800" y="13.600"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+RXD</text>
+<text x="21.175" y="13.166"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+PIC16F84SO1801A</text>
+<text x="14.000" y="13.216"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+IT-65</text>
+<rect x="19.235" y="6.850" width="3.965" height="1.850" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="19.235" y="6.850" width="3.965" height="1.850" fill="none" stroke="#000000" stroke-width="0.100" />
+<line x1="21.218" y1="8.700" x2="21.179" y2="10.626" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="20.937,10.233 21.177,10.738 21.437,10.243 "/>
+<text x="21.218" y="7.850"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+NB 3201</text>
+</svg>
